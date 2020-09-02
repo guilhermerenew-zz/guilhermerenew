@@ -12,5 +12,3 @@ Admirer of new technologies, books and social activists. \
 Most of my time is devoted to learning about Devops methodologies and Software Architecture. \
 Dedicated to learning Go in 2020! \
 I want to start writing on Medium, for now these are my social networks :)
-
-:earth_americas:[Adobe Portifolio](https://guilherme-oliveira.myportfolio.com/)
