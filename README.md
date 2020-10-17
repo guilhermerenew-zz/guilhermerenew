@@ -1,5 +1,5 @@
 ### About:v:
-I am a systems administrator focused on cloud, sustainability and security, currently working as a Devops Engineer at PicPay and graduating in Bachelor of Technology (B.Tech.) From SENAC. Currently studying Cloud Native [CNCF](https://www.cncf.io/) technologies, like Fluentd, ArgoCI, Kubernetes and Prometheus.
+I am a systems administrator focused on cloud, sustainability and security, currently working as a DevOps Engineer at PicPay and graduating in Bachelor of Technology (B.Tech.) From SENAC. Currently studying Cloud Native [CNCF](https://www.cncf.io/) technologies, like Fluentd, ArgoCI, Kubernetes and Prometheus.
 
 ### Projects :earth_americas:
 
@@ -15,6 +15,6 @@ Participant and speaker at two technology Conferences at [Feceap](https://ceappe
 
 ### Social :zap:
 Admirer of new technologies, books and social activists. \
-Most of my time is devoted to learning about Devops methodologies and Software Architecture. \
+Most of my time is devoted to learning about Engineer and Software Architecture. \
 Dedicated to learning Go in 2020! \
 I want to start writing on Medium, for now these are my social networks :)
