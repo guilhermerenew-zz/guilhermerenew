@@ -3,8 +3,8 @@ I am a systems administrator focused on cloud, sustainability and security, curr
 
 ### Projects :earth_americas:
 
-Devops engineer participating in [UOL Meu Negócio](https://meunegocio.uol.com.br/) \
-Principal Engineer Devops in [UOL Med](http://uolmed.com.br/) \
+DevOps Engineer participating in [UOL Meu Negócio](https://meunegocio.uol.com.br/) \
+Principal Engineer on [UOL Med](http://uolmed.com.br/) \
 Wiki Devops [UOL FAQ](http://faq.uolhost.uol.com.br/)
 
 ### Talks :student:
