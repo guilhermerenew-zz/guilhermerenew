@@ -1,5 +1,5 @@
 ### About:v:
-I am a systems administrator focused on cloud, sustainability and security, currently working as a Devops Engineer at UOL and graduating in Bachelor of Technology (B.Tech.) From SENAC. Currently studying Cloud Native [CNCF](https://www.cncf.io/) technologies, like Fluentd, ArgoCI, Kubernetes and Prometheus.
+I am a systems administrator focused on cloud, sustainability and security, currently working as a Devops Engineer at PicPay and graduating in Bachelor of Technology (B.Tech.) From SENAC. Currently studying Cloud Native [CNCF](https://www.cncf.io/) technologies, like Fluentd, ArgoCI, Kubernetes and Prometheus.
 
 ### Projects :earth_americas:
 
