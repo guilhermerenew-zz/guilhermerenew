@@ -3,7 +3,7 @@ I am a systems administrator focused on cloud, sustainability and security, curr
 
 ### Projects :earth_americas:
 Site Reliability Engineer in InternalTools team at [PicPay](https://picpay.com/site) \
-Principal DevOps Engineer on [UOL Med](http://uolmed.com.br/)
+Principal DevOps Engineering on [UOL Med](http://uolmed.com.br/)
 
 ### Talks :student:
 Cloud Native Systems monitoring and Scaling Data enthusiast \
