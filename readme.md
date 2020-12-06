@@ -2,7 +2,7 @@
 I am a systems administrator focused on cloud, sustainability and security, currently working as a DevOps Engineer at PicPay and graduating in Bachelor of Technology (B.Tech.) From SENAC. Currently studying Cloud Native [CNCF](https://www.cncf.io/) technologies, like Fluentd, ArgoCI, Kubernetes and Prometheus.
 
 ### Projects :earth_americas:
-Site Reliability Engineer in InternalTools team at [PicPay](https://picpay.com/site) \
+Software Engineer and Site Reliability Engineer at [PicPay](https://picpay.com/site) \
 Principal DevOps Engineering on [UOL Med](http://uolmed.com.br/)
 
 ### Talks :student:
