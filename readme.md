@@ -15,4 +15,6 @@ Participant and speaker at two technology Conferences at [Feceap](https://ceappe
 Admirer of new technologies, books and social activists. \
 Most of my time is devoted to learning about Engineer and Software Architecture. \
 Dedicated to learning Go in 2021! \
-I want to start writing on Medium, for now these are my social networks :)
+I want to start writing on Medium, for now these are my social networks :) \
+Guilherme Oliveira [Adobe Portfolio](https://guilherme-oliveira.myportfolio.com/) \
+Professional [LinkedIn](https://www.linkedin.com/in/guilhermeoliveira2020/)
