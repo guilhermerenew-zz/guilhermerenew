@@ -1,6 +1,5 @@
 ### About:v:
-Software Engineer at PicPay working as Site Reliability Engineering, taking the DevOps culture and OpenSource into teams to transform payment methods! \
-Currently studying Cloud Native [CNCF](https://www.cncf.io/) technologies, like Fluentd, Kafka, ArgoCI, Kubernetes and Prometheus.
+Software Engineer at PicPay working as Site Reliability Engineering, taking the DevOps culture and OpenSource into teams to transform payment methods! Currently studying Cloud Native [CNCF](https://www.cncf.io/) technologies, like Fluentd, Kafka, ArgoCI, Kubernetes and Prometheus.
 
 ### Projects :earth_americas:
 Software Engineer and Site Reliability Engineer at [PicPay](https://picpay.com/site) \
