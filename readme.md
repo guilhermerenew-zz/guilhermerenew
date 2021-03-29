@@ -16,3 +16,10 @@ Admirer of new technologies, books and social activists. \
 Most of my time is devoted to learning about Engineer and Software Architecture. \
 Dedicated to learning Go in 2021! \
 I want to start writing on Medium, for now these are my social networks :)
+
+
+
+
+
+
+
