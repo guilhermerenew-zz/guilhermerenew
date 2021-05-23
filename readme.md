@@ -9,10 +9,9 @@ Principal DevOps Engineering on [UOL Med](http://uolmed.com.br/)
 Cloud Native Systems monitoring and Scaling Data enthusiast \
 Editor at [AWS User Group São Paulo](https://www.meetup.com/pt-BR/awsusergroupsp/) 07/2018 ~ Until now \
 Editor at [AWS Devops Brasil Group](https://www.meetup.com/pt-BR/AWS-DevOps-Brasil/) 05/2019 ~ Until now \
-Participant and speaker at two technology Conferences at [Feceap](https://ceappedreira.org.br/atuacao/eventos/feceap/) ~ 2016/17
 
 ### Social :zap:
 Admirer of new technologies, books and social activists. \
 Most of my time is devoted to learning about Engineer and Software Architecture. \
-Dedicated to learning Go in 2021! \
+Dedicated to learning Go and Kafka in 2021! \
 I want to start writing on Medium, for now these are my social networks :)
