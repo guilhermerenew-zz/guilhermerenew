@@ -8,7 +8,7 @@ Principal DevOps Engineering on [UOL Med](http://uolmed.com.br/)
 ### Talks :dizzy:
 Cloud Native Systems monitoring and Scaling Data enthusiast \
 Editor at [AWS User Group São Paulo](https://www.meetup.com/pt-BR/awsusergroupsp/) 07/2018 ~ Until now \
-Editor at [AWS Devops Brasil Group](https://www.meetup.com/pt-BR/AWS-DevOps-Brasil/) 05/2019 ~ Until now \
+Editor at [AWS Devops Brasil Group](https://www.meetup.com/pt-BR/AWS-DevOps-Brasil/) 05/2019 ~ Until now
 
 ### Social :zap:
 Admirer of new technologies, books and social activists. \
