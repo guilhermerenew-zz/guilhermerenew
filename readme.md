@@ -5,7 +5,7 @@ Software Engineer at PicPay working as Site Reliability Engineering, taking the 
 Software Engineer and Site Reliability Engineer at [PicPay](https://picpay.com/site) \
 Principal DevOps Engineering on [UOL Med](http://uolmed.com.br/)
 
-### Talks
+### Talks :dizzy:
 Cloud Native Systems monitoring and Scaling Data enthusiast \
 Editor at [AWS User Group São Paulo](https://www.meetup.com/pt-BR/awsusergroupsp/) 07/2018 ~ Until now \
 Editor at [AWS Devops Brasil Group](https://www.meetup.com/pt-BR/AWS-DevOps-Brasil/) 05/2019 ~ Until now \
