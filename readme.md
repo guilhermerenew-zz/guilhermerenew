@@ -1,8 +1,8 @@
 ### About:v:
-Software Engineer at PicPay working as Site Reliability Engineering, taking the DevOps culture and OpenSource into teams to transform payment methods! Currently studying Cloud Native [CNCF](https://www.cncf.io/) technologies, like Fluentd, Kafka, ArgoCI, Kubernetes and Prometheus.
+Software Engineer at PicPay working as Senior Site Reliability Engineering, taking the DevOps culture and OpenSource into teams to transform payment methods! Currently studying Cloud Native [CNCF](https://www.cncf.io/) technologies, like Fluentd, Kafka, ArgoCI, Kubernetes and Prometheus.
 
 ### Projects :earth_americas:
-Software Engineer and Site Reliability Engineer at [PicPay](https://picpay.com/site) \
+Software Engineer and Senior Site Reliability Engineer at [PicPay](https://picpay.com/site) \
 Principal DevOps Engineering on [UOL Med](http://uolmed.com.br/)
 
 ### Talks :dizzy:
@@ -13,5 +13,5 @@ Editor at [AWS Devops Brasil Group](https://www.meetup.com/pt-BR/AWS-DevOps-Bra
 ### Social :zap:
 Admirer of new technologies, books and social activists. \
 Most of my time is devoted to learning about Engineer and Software Architecture. \
-Dedicated to learning Go and Kafka in 2021! \
+Dedicated to learning Golang and Kafka in 2021! \
 I want to start writing on Medium, for now these are my social networks :)
