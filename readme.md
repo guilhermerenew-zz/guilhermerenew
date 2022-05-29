@@ -1,6 +1,9 @@
 ### About:v:
 Software Engineer at PicPay working as Senior Site Reliability Engineering, taking the DevOps culture and OpenSource into teams to transform payment methods! Currently studying Cloud Native [CNCF](https://www.cncf.io/) technologies, like Fluentd, Kafka, ArgoCI, Kubernetes and Prometheus.
 
+### Skills 🔖
+Golang, Orchestration using Kubernetes/Docker Runtime, Operators, Ingress Controller, Cloud Native CI/CD using Tekton, Backstage.io Ecosystem, Service Mesh, Kong API Gateway, AWS Provider and Serverless.
+
 ### Projects :earth_americas:
 Software Engineer and Senior Site Reliability Engineer at [PicPay](https://picpay.com/site) \
 Principal DevOps Engineering on [UOL Med](http://uolmed.com.br/)
