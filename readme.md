@@ -8,9 +8,3 @@ Golang, Orchestration using Kubernetes/Docker Runtime, Operators, Ingress Contro
 - Speeker in [SRE Teams #12: PicPay](https://sreteams.substack.com/p/picpay?r=bj54h&s=r&utm_campaign=post&utm_medium=web)
 - Editor at [AWS User Group São Paulo](https://www.meetup.com/pt-BR/awsusergroupsp/) 07/2018 ~ Until now
 - Editor at [AWS Devops Brasil Group](https://www.meetup.com/pt-BR/AWS-DevOps-Brasil/) 05/2019 ~ Until now
-
-### Social :zap:
-- Admirer of new technologies, books and social activists.
-- Most of my time is devoted to learning about Engineer and Software Architecture.
-- Dedicated to learning Golang and Kafka in 2022!
-- I want to start writing on Medium, for now these are my social networks :)
